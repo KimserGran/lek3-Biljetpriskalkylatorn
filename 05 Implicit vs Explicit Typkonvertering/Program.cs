@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int tal = 500;
+            double dubbel = tal;
+            dubbel = 123.45;
+            int nyttTal = (int)dubbel;
+
+            Console.WriteLine($"int: {tal}\nint > dubbel(implicit): {dubbel}\n dubbel > int(explicit):{nyttTal}");
+            Console.ReadKey();
         }
     }
 }
