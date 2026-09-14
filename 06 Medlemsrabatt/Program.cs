@@ -19,7 +19,7 @@
             Console.WriteLine("Hur mycket har du handlat för?");
             kostnad = decimal.Parse(Console.ReadLine());
 
-            if(Guldmedlem || kostnad >= prisRabatt || ålder >= 65)
+            if(Guldmedlem || (kostnad >= prisRabatt && ålder >= 65))
                 Console.WriteLine("Du är berättigad 10% rabatt på ditt köp!");
 
             Console.ReadKey();

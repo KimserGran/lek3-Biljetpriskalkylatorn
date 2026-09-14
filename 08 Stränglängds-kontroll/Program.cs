@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string? text = null;
+            Console.WriteLine(text == null ? "Strängens längd är 0" : $"Stränglängd: {text?.Length}");
+            Console.ReadKey();  
         }
     }
 }

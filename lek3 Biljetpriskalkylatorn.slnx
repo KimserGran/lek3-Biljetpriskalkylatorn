@@ -6,5 +6,8 @@
   <Project Path="06 Medlemsrabatt/06 Medlemsrabatt.csproj" Id="5e3c0aaf-013b-403b-b06f-8a68d7bf7257" />
   <Project Path="07 Säker division/07 Säker division.csproj" Id="7d5a3019-aea2-498b-9231-61dc16f5103e" />
   <Project Path="08 Stränglängds-kontroll/08 Stränglängds-kontroll.csproj" Id="831ad4f7-756b-4346-b459-6f966fd694d8" />
+  <Project Path="09 Inkrementeingstjusa/09 Inkrementeingstjusa.csproj" Id="500f5844-3e23-448f-8d36-999de0980584" />
+  <Project Path="10 Datatyp-safe-casting/10 Datatyp-safe-casting.csproj" Id="99275353-982d-499e-8939-290b8234279e" />
+  <Project Path="11 Skatteuträknaren/11 Skatteuträknaren.csproj" Id="d7e8e77e-3821-420c-94b0-e7a7accc92e3" />
   <Project Path="lek3 Biljetpriskalkylatorn/lek3 Biljetpriskalkylatorn.csproj" />
 </Solution>
